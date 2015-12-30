@@ -1,6 +1,5 @@
-# RecSys
+# Combine Latent Factor Models with Item Attributes
 
-包括UserCF、ItemCF、SlopeOne、LFM等推荐算法的实现
+A novel approach to integrating item attributes with Latent Factor Models. This approach takes into consideration, not only the interactions between users and items, but also the interactions between users and item attributes that will influence the users’ preferences on items. 
 
-使用MovieLens数据集测试，测试报告见[test100k.md](https://github.com/wjfwzzc/RecSys/blob/master/test100k.md)
-# LFM
+For detailed information and algorithm please refer to the report.
